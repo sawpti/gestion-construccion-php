@@ -1,0 +1,45 @@
+[24-Nov-2018 16:45:23 America/Santiago] PHP Notice:  Undefined variable: ett in /home/nativoru/public_html/systemgk/reportes/Factura.php on line 479
+[24-Nov-2018 16:45:23 America/Santiago] PHP Warning:  A non-numeric value encountered in /home/nativoru/public_html/systemgk/reportes/Letras.php on line 205
+[24-Nov-2018 16:45:23 America/Santiago] PHP Warning:  A non-numeric value encountered in /home/nativoru/public_html/systemgk/reportes/Letras.php on line 205
+[24-Nov-2018 16:45:23 America/Santiago] PHP Notice:  A non well formed numeric value encountered in /home/nativoru/public_html/systemgk/reportes/exFactura.php on line 117
+[30-Nov-2018 15:47:03 America/Santiago] PHP Notice:  Undefined property: stdClass::$fecha in /home/nativoru/public_html/systemgk/reportes/exEpago.php on line 139
+[30-Nov-2018 15:58:24 America/Santiago] PHP Notice:  Undefined property: stdClass::$fecha in /home/nativoru/public_html/systemgk/reportes/exEpago.php on line 139
+[13-Dec-2018 12:04:50 America/Santiago] PHP Notice:  Undefined property: stdClass::$fecha in /home/nativoru/public_html/systemgk/reportes/exEpago.php on line 139
+[21-Dec-2018 13:37:41 America/Santiago] PHP Notice:  Undefined property: stdClass::$fecha in /home/nativoru/public_html/systemgk/reportes/exEpago.php on line 139
+[21-Dec-2018 13:37:54 America/Santiago] PHP Notice:  Undefined property: stdClass::$fecha in /home/nativoru/public_html/systemgk/reportes/exEpago.php on line 139
+[27-Dec-2018 09:05:17 America/Santiago] PHP Notice:  Undefined property: stdClass::$fecha in /home/nativoru/public_html/systemgk/reportes/exEpago.php on line 139
+[27-Dec-2018 09:14:13 America/Santiago] PHP Notice:  Undefined property: stdClass::$fecha in /home/nativoru/public_html/systemgk/reportes/exEpago.php on line 139
+[27-Dec-2018 09:21:44 America/Santiago] PHP Notice:  Undefined property: stdClass::$fecha in /home/nativoru/public_html/systemgk/reportes/exEpago.php on line 139
+[27-Dec-2018 09:22:04 America/Santiago] PHP Warning:  Division by zero in /home/nativoru/public_html/systemgk/reportes/Epago.php on line 130
+[27-Dec-2018 09:22:04 America/Santiago] PHP Warning:  Division by zero in /home/nativoru/public_html/systemgk/reportes/Epago.php on line 130
+[27-Dec-2018 09:22:04 America/Santiago] PHP Notice:  Undefined property: stdClass::$fecha in /home/nativoru/public_html/systemgk/reportes/exEpago.php on line 139
+[27-Dec-2018 09:26:10 America/Santiago] PHP Notice:  Undefined property: stdClass::$fecha in /home/nativoru/public_html/systemgk/reportes/exEpago.php on line 139
+[27-Dec-2018 09:31:14 America/Santiago] PHP Notice:  Undefined property: stdClass::$fecha in /home/nativoru/public_html/systemgk/reportes/exEpago.php on line 139
+[27-Dec-2018 09:32:01 America/Santiago] PHP Notice:  Undefined property: stdClass::$fecha in /home/nativoru/public_html/systemgk/reportes/exEpago.php on line 139
+[27-Dec-2018 09:32:43 America/Santiago] PHP Notice:  Undefined property: stdClass::$fecha in /home/nativoru/public_html/systemgk/reportes/exEpago.php on line 139
+[27-Dec-2018 09:35:03 America/Santiago] PHP Notice:  Undefined property: stdClass::$fecha in /home/nativoru/public_html/systemgk/reportes/exEpago.php on line 139
+[27-Dec-2018 09:39:12 America/Santiago] PHP Notice:  Undefined property: stdClass::$fecha in /home/nativoru/public_html/systemgk/reportes/exEpago.php on line 139
+[27-Dec-2018 09:52:27 America/Santiago] PHP Notice:  Undefined property: stdClass::$fecha in /home/nativoru/public_html/systemgk/reportes/exEpago.php on line 139
+[27-Dec-2018 09:57:07 America/Santiago] PHP Notice:  Undefined property: stdClass::$fecha in /home/nativoru/public_html/systemgk/reportes/exEpago.php on line 139
+[28-Dec-2018 09:29:58 America/Santiago] PHP Notice:  Undefined property: stdClass::$fecha in /home/nativoru/public_html/systemgk/reportes/exEpago.php on line 139
+[28-Dec-2018 09:37:18 America/Santiago] PHP Notice:  Undefined property: stdClass::$fecha in /home/nativoru/public_html/systemgk/reportes/exEpago.php on line 139
+[28-Dec-2018 19:03:11 America/Santiago] PHP Notice:  Undefined variable: ett in /home/nativoru/public_html/systemgk/reportes/Factura.php on line 479
+[28-Dec-2018 19:03:11 America/Santiago] PHP Warning:  A non-numeric value encountered in /home/nativoru/public_html/systemgk/reportes/Letras.php on line 205
+[28-Dec-2018 19:03:11 America/Santiago] PHP Notice:  A non well formed numeric value encountered in /home/nativoru/public_html/systemgk/reportes/exFactura.php on line 117
+[28-Dec-2018 19:05:03 America/Santiago] PHP Notice:  Undefined variable: ett in /home/nativoru/public_html/systemgk/reportes/Factura.php on line 479
+[28-Dec-2018 19:05:03 America/Santiago] PHP Warning:  A non-numeric value encountered in /home/nativoru/public_html/systemgk/reportes/Letras.php on line 205
+[28-Dec-2018 19:05:03 America/Santiago] PHP Warning:  A non-numeric value encountered in /home/nativoru/public_html/systemgk/reportes/Letras.php on line 205
+[28-Dec-2018 19:05:03 America/Santiago] PHP Notice:  A non well formed numeric value encountered in /home/nativoru/public_html/systemgk/reportes/exFactura.php on line 117
+[28-Dec-2018 19:06:59 America/Santiago] PHP Notice:  Undefined variable: ett in /home/nativoru/public_html/systemgk/reportes/Factura.php on line 479
+[28-Dec-2018 19:06:59 America/Santiago] PHP Warning:  A non-numeric value encountered in /home/nativoru/public_html/systemgk/reportes/Letras.php on line 205
+[28-Dec-2018 19:06:59 America/Santiago] PHP Warning:  A non-numeric value encountered in /home/nativoru/public_html/systemgk/reportes/Letras.php on line 205
+[28-Dec-2018 19:06:59 America/Santiago] PHP Notice:  A non well formed numeric value encountered in /home/nativoru/public_html/systemgk/reportes/exFactura.php on line 117
+[28-Dec-2018 19:08:12 America/Santiago] PHP Notice:  Undefined variable: ett in /home/nativoru/public_html/systemgk/reportes/Factura.php on line 479
+[28-Dec-2018 19:08:12 America/Santiago] PHP Warning:  A non-numeric value encountered in /home/nativoru/public_html/systemgk/reportes/Letras.php on line 205
+[28-Dec-2018 19:08:12 America/Santiago] PHP Warning:  A non-numeric value encountered in /home/nativoru/public_html/systemgk/reportes/Letras.php on line 205
+[28-Dec-2018 19:08:12 America/Santiago] PHP Notice:  A non well formed numeric value encountered in /home/nativoru/public_html/systemgk/reportes/exFactura.php on line 117
+[05-Mar-2019 16:48:57 America/Santiago] PHP Notice:  Undefined variable: ett in /home/nativoru/public_html/systemgk/reportes/Factura.php on line 479
+[05-Mar-2019 16:48:57 America/Santiago] PHP Warning:  A non-numeric value encountered in /home/nativoru/public_html/systemgk/reportes/Letras.php on line 205
+[05-Mar-2019 16:48:57 America/Santiago] PHP Warning:  A non-numeric value encountered in /home/nativoru/public_html/systemgk/reportes/Letras.php on line 205
+[05-Mar-2019 16:48:57 America/Santiago] PHP Notice:  A non well formed numeric value encountered in /home/nativoru/public_html/systemgk/reportes/exFactura.php on line 117
+[09-Apr-2019 10:35:14 America/Santiago] PHP Notice:  Undefined property: stdClass::$fecha in /home/nativoru/public_html/systemgk/reportes/exEpago.php on line 139

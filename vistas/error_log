@@ -1,0 +1,78 @@
+[23-Aug-2017 19:28:39 UTC] PHP Notice:  Undefined index: empresas in /home/nativoru/public_html/sistema/vistas/header.php on line 111
+[23-Aug-2017 19:28:39 UTC] PHP Notice:  Undefined index: consultam in /home/nativoru/public_html/sistema/vistas/header.php on line 242
+[23-Aug-2017 19:30:23 UTC] PHP Notice:  Undefined index: empresas in /home/nativoru/public_html/sistema/vistas/header.php on line 111
+[23-Aug-2017 19:30:23 UTC] PHP Notice:  Undefined index: consultam in /home/nativoru/public_html/sistema/vistas/header.php on line 242
+[23-Aug-2017 19:41:14 UTC] PHP Notice:  Undefined variable: mysqli in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 19:41:14 UTC] PHP Notice:  Trying to get property of non-object in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 19:41:20 UTC] PHP Notice:  Undefined variable: mysqli in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 19:41:20 UTC] PHP Notice:  Trying to get property of non-object in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 19:42:51 UTC] PHP Notice:  Undefined variable: mysqli in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 19:42:51 UTC] PHP Notice:  Trying to get property of non-object in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 19:45:44 UTC] PHP Notice:  Undefined variable: mysqli in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 19:45:44 UTC] PHP Notice:  Trying to get property of non-object in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 19:47:14 UTC] PHP Notice:  Undefined variable: mysqli in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 19:47:14 UTC] PHP Notice:  Trying to get property of non-object in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 19:47:41 UTC] PHP Notice:  Undefined variable: mysqli in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 19:47:41 UTC] PHP Notice:  Trying to get property of non-object in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 19:52:58 UTC] PHP Notice:  Undefined variable: mysqli in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 19:52:58 UTC] PHP Notice:  Trying to get property of non-object in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 19:56:25 UTC] PHP Notice:  Undefined variable: mysqli in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 19:56:25 UTC] PHP Notice:  Trying to get property of non-object in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 19:59:08 UTC] PHP Notice:  Undefined variable: mysqli in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 19:59:08 UTC] PHP Notice:  Trying to get property of non-object in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 20:01:56 UTC] PHP Notice:  Undefined variable: mysqli in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 20:01:56 UTC] PHP Notice:  Trying to get property of non-object in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 20:13:49 UTC] PHP Notice:  Undefined variable: mysqli in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 20:13:49 UTC] PHP Notice:  Trying to get property of non-object in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 20:21:36 UTC] PHP Notice:  Undefined variable: mysqli in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 20:21:36 UTC] PHP Notice:  Trying to get property of non-object in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 20:24:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 20:24:29 UTC] PHP Notice:  Trying to get property of non-object in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 20:30:30 UTC] PHP Notice:  Undefined variable: mysqli in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[23-Aug-2017 20:30:30 UTC] PHP Notice:  Trying to get property of non-object in /home/nativoru/public_html/sistema/config/Conexion.php on line 9
+[16-Nov-2017 11:26:54 UTC] PHP Notice:  Undefined variable: fechasc in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 151
+[16-Nov-2017 11:26:54 UTC] PHP Notice:  Undefined variable: totalesc in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 154
+[16-Nov-2017 11:26:54 UTC] PHP Notice:  Undefined variable: fechasv in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 199
+[16-Nov-2017 11:26:54 UTC] PHP Notice:  Undefined variable: totalesv in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 202
+[17-Nov-2017 02:03:36 UTC] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[23-Nov-2017 01:28:44 UTC] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[26-Nov-2017 20:59:23 UTC] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[29-Nov-2017 20:50:08 UTC] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[23-Jan-2018 14:18:24 UTC] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[09-Feb-2018 17:50:22 UTC] PHP Notice:  Undefined variable: fechasc in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 153
+[09-Feb-2018 17:50:22 UTC] PHP Notice:  Undefined variable: totalesc in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 156
+[09-Feb-2018 17:50:22 UTC] PHP Notice:  Undefined variable: fechasv in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 201
+[09-Feb-2018 17:50:22 UTC] PHP Notice:  Undefined variable: totalesv in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 204
+[09-Feb-2018 18:54:18 UTC] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[15-May-2018 11:07:18 UTC] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[13-Jun-2018 22:51:53 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[14-Jun-2018 11:28:58 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[16-Jul-2018 10:12:27 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[21-Jul-2018 17:41:57 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[30-Jul-2018 20:17:11 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[31-Jul-2018 19:12:56 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[05-Aug-2018 15:16:35 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[11-Aug-2018 09:27:07 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[15-Aug-2018 13:32:07 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[16-Aug-2018 13:03:51 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[25-Aug-2018 15:25:56 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[28-Aug-2018 21:15:25 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[02-Sep-2018 18:35:13 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[10-Sep-2018 17:27:43 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[11-Sep-2018 12:45:03 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[13-Oct-2018 08:21:49 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[10-Nov-2018 20:47:50 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[14-Nov-2018 21:10:42 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[25-Nov-2018 08:36:30 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[26-Nov-2018 08:34:42 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[29-Nov-2018 00:20:11 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[01-Dec-2018 19:10:14 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[02-Dec-2018 17:20:48 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[11-Dec-2018 20:23:31 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[27-Dec-2018 00:36:04 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[29-Dec-2018 11:32:58 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[20-Feb-2019 23:01:49 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[15-Mar-2019 11:22:26 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[15-Mar-2019 11:22:27 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[15-Mar-2019 11:22:27 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
+[16-Apr-2019 10:58:39 America/Santiago] PHP Notice:  Undefined index: id_empresa in /home/nativoru/public_html/systemgk/vistas/escritorio.php on line 8
